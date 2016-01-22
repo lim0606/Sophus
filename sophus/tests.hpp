@@ -2,7 +2,7 @@
 #define SOPUHS_TESTS_HPP
 
 #include <vector>
-#include <unsupported/Eigen/MatrixFunctions>
+#include <eigen3/unsupported/Eigen/MatrixFunctions>
 
 #include "sophus.hpp"
 
