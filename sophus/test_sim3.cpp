@@ -23,7 +23,7 @@
 #include <iostream>
 #include <vector>
 
-#include <unsupported/Eigen/MatrixFunctions>
+#include <eigen3/unsupported/Eigen/MatrixFunctions>
 
 #include "sim3.hpp"
 #include "tests.hpp"
